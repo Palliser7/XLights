@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Networks computer="DESKTOP-NPP1GH9" GlobalFPPProxy="" GlobalForceLocalIP="">
+  <Controller Id="1" Name="F16V3 v2.59" Description="F16V3" Type="Ethernet" Vendor="Falcon" Model="F16V3" Variant="One Expansion + Serial Port Remotes" AutoSize="1" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="50" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" IP="192.168.0.167" Protocol="E131" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+    <network ComPort="192.168.0.167" BaudRate="1" NetworkType="E131" MaxChannels="512"/>
+    <network ComPort="192.168.0.167" BaudRate="2" NetworkType="E131" MaxChannels="512"/>
+    <network ComPort="192.168.0.167" BaudRate="3" NetworkType="E131" MaxChannels="512"/>
+    <network ComPort="192.168.0.167" BaudRate="4" NetworkType="E131" MaxChannels="512"/>
+    <network ComPort="192.168.0.167" BaudRate="5" NetworkType="E131" MaxChannels="512"/>
+    <network ComPort="192.168.0.167" BaudRate="6" NetworkType="E131" MaxChannels="512"/>
+    <network ComPort="192.168.0.167" BaudRate="7" NetworkType="E131" MaxChannels="512"/>
+    <network ComPort="192.168.0.167" BaudRate="8" NetworkType="E131" MaxChannels="512"/>
+    <network ComPort="192.168.0.167" BaudRate="9" NetworkType="E131" MaxChannels="512"/>
+    <network ComPort="192.168.0.167" BaudRate="10" NetworkType="E131" MaxChannels="512"/>
+    <network ComPort="192.168.0.167" BaudRate="11" NetworkType="E131" MaxChannels="512"/>
+    <network ComPort="192.168.0.167" BaudRate="12" NetworkType="E131" MaxChannels="512"/>
+    <network ComPort="192.168.0.167" BaudRate="13" NetworkType="E131" MaxChannels="512"/>
+    <network ComPort="192.168.0.167" BaudRate="14" NetworkType="E131" MaxChannels="512"/>
+    <network ComPort="192.168.0.167" BaudRate="15" NetworkType="E131" MaxChannels="512"/>
+    <network ComPort="192.168.0.167" BaudRate="16" NetworkType="E131" MaxChannels="512"/>
+    <network ComPort="192.168.0.167" BaudRate="17" NetworkType="E131" MaxChannels="512"/>
+    <network ComPort="192.168.0.167" BaudRate="18" NetworkType="E131" MaxChannels="512"/>
+  </Controller>
+</Networks>

@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2021.40</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song>The Polar Express</song>
+    <artist>Tom Hanks</artist>
+    <album>The Polar Express (Soundtrack from the Motion Picture)</album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>25 ms</sequenceTiming>
+    <sequenceType>Media</sequenceType>
+    <mediaFile>C:\Users\brayd\Desktop\01 The Polar Express.m4a</mediaFile>
+    <sequenceDuration>203.242</sequenceDuration>
+    <imageDir></imageDir>
+  </head>
+  <nextid>1</nextid>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect></Effect>
+  </EffectDB>
+  <DataLayers>
+    <DataLayer lor_params="5767247" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View,Copy Of Master View,Imported Master" active="1"/>
+    <Element collapsed="0" type="model" name="Arches" visible="1"/>
+    <Element collapsed="0" type="model" name="Everything" visible="1"/>
+    <Element collapsed="0" type="model" name="Verticals" visible="1"/>
+    <Element collapsed="0" type="model" name="Horizontals" visible="1"/>
+    <Element collapsed="0" type="model" name="Faces" visible="1"/>
+    <Element collapsed="0" type="model" name="Windows" visible="1"/>
+    <Element collapsed="0" type="model" name="Doors" visible="1"/>
+    <Element collapsed="0" type="model" name="Garage Doors" visible="1"/>
+    <Element collapsed="0" type="model" name="Roofs" visible="1"/>
+    <Element collapsed="0" type="model" name="Sides" visible="1"/>
+    <Element collapsed="0" type="model" name="House" visible="1"/>
+    <Element collapsed="0" type="model" name="Yard" visible="1"/>
+    <Element collapsed="0" type="model" name="Left Arches" visible="1"/>
+    <Element collapsed="0" type="model" name="Right Arches" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches Right 2" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches Right 1" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches Left 1" visible="1"/>
+    <Element collapsed="0" type="model" name="Singing Bulb 2" visible="1"/>
+    <Element collapsed="0" type="model" name="Singing Bulb 3" visible="1"/>
+    <Element collapsed="0" type="model" name="Singing Bulb 4" visible="1"/>
+    <Element collapsed="0" type="model" name="Singing Bulb 1" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches Left 2" visible="1"/>
+    <Element collapsed="0" type="model" name="Garage Door 1" visible="1"/>
+    <Element collapsed="0" type="model" name="Door 1" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree Star" visible="1"/>
+    <Element collapsed="0" type="model" name="Door 2" visible="1"/>
+    <Element collapsed="0" type="model" name="Garage Door 2" visible="1"/>
+    <Element collapsed="0" type="model" name="Roof Garage" visible="1"/>
+    <Element collapsed="0" type="model" name="Side South" visible="1"/>
+    <Element collapsed="0" type="model" name="Window 3" visible="1"/>
+    <Element collapsed="0" type="model" name="Window 2" visible="1"/>
+    <Element collapsed="0" type="model" name="Window 1" visible="1"/>
+    <Element collapsed="0" type="model" name="Side North" visible="1"/>
+    <Element collapsed="0" type="model" name="Roof House" visible="1"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="14775" endTime="15775" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Everything">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="16200" endTime="17525" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Verticals">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="17900" endTime="18900" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Horizontals">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="19225" endTime="20225" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Faces">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="20500" endTime="21500" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Windows">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="21750" endTime="22750" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Doors">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="23000" endTime="24000" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Garage Doors">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="24200" endTime="25200" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Roofs">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="25450" endTime="26450" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Sides">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="26750" endTime="27750" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="House">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="27950" endTime="28950" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Yard">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="29225" endTime="30225" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Left Arches">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="30575" endTime="31575" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Right Arches">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="31850" endTime="32850" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Arches Right 2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches Right 1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches Left 1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Singing Bulb 2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Singing Bulb 3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Singing Bulb 4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Singing Bulb 1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches Left 2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Garage Door 1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Door 1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree Star">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Door 2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Garage Door 2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Roof Garage">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Side South">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Window 3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Window 2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Window 1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Side North">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Roof House">
+      <EffectLayer/>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1"/>
+    <Tag number="1" position="-1"/>
+    <Tag number="2" position="-1"/>
+    <Tag number="3" position="-1"/>
+    <Tag number="4" position="-1"/>
+    <Tag number="5" position="-1"/>
+    <Tag number="6" position="-1"/>
+    <Tag number="7" position="-1"/>
+    <Tag number="8" position="-1"/>
+    <Tag number="9" position="-1"/>
+  </TimingTags>
+</xsequence>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2021.36</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song></song>
+    <artist></artist>
+    <album></album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>25 ms</sequenceTiming>
+    <sequenceType>Animation</sequenceType>
+    <mediaFile></mediaFile>
+    <sequenceDuration>30.000</sequenceDuration>
+    <imageDir></imageDir>
+  </head>
+  <nextid>1</nextid>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#004000,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette5=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette5=1,C_CHECKBOX_Palette6=1,C_CHECKBOX_Palette7=1</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect>E_CHECKBOX_Circles_Bounce=0,E_CHECKBOX_Circles_Bubbles=0,E_CHECKBOX_Circles_Collide=0,E_CHECKBOX_Circles_Linear_Fade=0,E_CHECKBOX_Circles_Plasma=0,E_CHECKBOX_Circles_Radial=0,E_CHECKBOX_Circles_Radial_3D=0,E_CHECKBOX_Circles_Random_m=0,E_SLIDER_Circles_Count=3,E_SLIDER_Circles_Size=6,E_SLIDER_Circles_Speed=6</Effect>
+    <Effect>E_CHECKBOX_Ripple3D=0,E_CHOICE_Ripple_Movement=Explode,E_CHOICE_Ripple_Object_To_Draw=Star,E_SLIDER_RIPPLE_POINTS=5,E_SLIDER_Ripple_Rotation=0,E_SLIDER_Ripple_Thickness=3,E_SLIDER_Ripple_XC=-20,E_SLIDER_Ripple_YC=-20,E_TEXTCTRL_Ripple_Cycles=30.0</Effect>
+    <Effect>E_CHECKBOX_FIRETIMING=0,E_CHECKBOX_Fireworks_Gravity=1,E_CHECKBOX_Fireworks_HoldColour=1,E_CHECKBOX_Fireworks_UseMusic=0,E_SLIDER_Fireworks_Count=50,E_SLIDER_Fireworks_Explosions=16,E_SLIDER_Fireworks_Fade=50,E_SLIDER_Fireworks_Velocity=2,E_SLIDER_Fireworks_XLocation=-1,E_SLIDER_Fireworks_XVelocity=0,E_SLIDER_Fireworks_YLocation=-1,E_SLIDER_Fireworks_YVelocity=0,E_TEXTCTRL_Fireworks_XLocation=-1,E_TEXTCTRL_Fireworks_XVelocity=0,E_TEXTCTRL_Fireworks_YLocation=-1,E_TEXTCTRL_Fireworks_YVelocity=0</Effect>
+    <Effect>E_CHECKBOX_Curtain_Repeat=1,E_CHOICE_Curtain_Edge=right,E_CHOICE_Curtain_Effect=open then close,E_SLIDER_Curtain_Swag=0,E_TEXTCTRL_Curtain_Speed=10.0</Effect>
+    <Effect>E_CHECKBOX_Curtain_Repeat=1,E_CHOICE_Curtain_Edge=left,E_CHOICE_Curtain_Effect=open then close,E_SLIDER_Curtain_Swag=1,E_TEXTCTRL_Curtain_Speed=10.0</Effect>
+  </EffectDB>
+  <DataLayers>
+    <DataLayer lor_params="56" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View" active="0"/>
+    <Element collapsed="0" type="model" name="everything" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree" visible="1"/>
+    <Element collapsed="0" type="model" name="MEGA TREE STAR 1" visible="1"/>
+    <Element collapsed="1" type="model" name="breez door" visible="1"/>
+    <Element collapsed="1" type="model" name="southgarage" visible="1"/>
+    <Element collapsed="0" type="model" name="garage roof" visible="1"/>
+    <Element collapsed="0" type="model" name="south side" visible="1"/>
+    <Element collapsed="0" type="model" name="living window" visible="1"/>
+    <Element collapsed="0" type="model" name="carley" visible="1"/>
+    <Element collapsed="0" type="model" name="mom window" visible="1"/>
+    <Element collapsed="0" type="model" name="north side" visible="1"/>
+    <Element collapsed="0" type="model" name="house roof" visible="1"/>
+    <Element collapsed="0" type="model" name="north garage" visible="1"/>
+    <Element collapsed="0" type="model" name="house door" visible="1"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="everything">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree">
+      <EffectLayer>
+        <Effect ref="0" name="Circles" startTime="0" endTime="41900" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="MEGA TREE STAR 1">
+      <EffectLayer>
+        <Effect ref="1" name="Ripple" startTime="0" endTime="45300" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="breez door">
+      <EffectLayer>
+        <Effect ref="2" name="Fireworks" selected="1" startTime="0" endTime="47550" palette="2"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="southgarage">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="garage roof">
+      <EffectLayer>
+        <Effect ref="3" name="Curtain" startTime="0" endTime="47800" palette="2"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="south side">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="living window">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="carley">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="mom window">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="north side">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="house roof">
+      <EffectLayer>
+        <Effect ref="4" name="Curtain" startTime="50" endTime="47800" palette="2"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="north garage">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="house door">
+      <EffectLayer/>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1"/>
+    <Tag number="1" position="-1"/>
+    <Tag number="2" position="-1"/>
+    <Tag number="3" position="-1"/>
+    <Tag number="4" position="-1"/>
+    <Tag number="5" position="-1"/>
+    <Tag number="6" position="-1"/>
+    <Tag number="7" position="-1"/>
+    <Tag number="8" position="-1"/>
+    <Tag number="9" position="-1"/>
+  </TimingTags>
+</xsequence>

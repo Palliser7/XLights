@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2021.34</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song></song>
+    <artist></artist>
+    <album></album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>25 ms</sequenceTiming>
+    <sequenceType>Animation</sequenceType>
+    <mediaFile></mediaFile>
+    <sequenceDuration>30.000</sequenceDuration>
+    <imageDir></imageDir>
+  </head>
+  <nextid>1</nextid>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect>E_CHECKBOX_Spirals_3D=0,E_CHECKBOX_Spirals_Blend=0,E_CHECKBOX_Spirals_Grow=0,E_CHECKBOX_Spirals_Shrink=0,E_SLIDER_Spirals_Count=1,E_SLIDER_Spirals_Rotation=20,E_SLIDER_Spirals_Thickness=50,E_TEXTCTRL_Spirals_Movement=20.0</Effect>
+    <Effect></Effect>
+  </EffectDB>
+  <DataLayers>
+    <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View" active="1"/>
+    <Element collapsed="0" type="model" name="Arches-4" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-3" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-2" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches" visible="1"/>
+    <Element collapsed="0" type="model" name="MEGA TREE STAR 1" visible="1"/>
+    <Element collapsed="0" type="model" name="GE Upright Singing Bulb-2" visible="1"/>
+    <Element collapsed="0" type="model" name="GE Upright Singing Bulb" visible="1"/>
+    <Element collapsed="0" type="model" name="GE Hanging Bulb Singing-3" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree" visible="1"/>
+    <Element collapsed="0" type="model" name="breez door" visible="1"/>
+    <Element collapsed="0" type="model" name="southgarage" visible="1"/>
+    <Element collapsed="0" type="model" name="garage roof" visible="1"/>
+    <Element collapsed="0" type="model" name="south side" visible="1"/>
+    <Element collapsed="0" type="model" name="living window" visible="1"/>
+    <Element collapsed="0" type="model" name="carley" visible="1"/>
+    <Element collapsed="0" type="model" name="mom window" visible="1"/>
+    <Element collapsed="0" type="model" name="north side" visible="1"/>
+    <Element collapsed="0" type="model" name="house roof" visible="1"/>
+    <Element collapsed="0" type="model" name="north garage" visible="1"/>
+    <Element collapsed="0" type="model" name="house door" visible="1"/>
+    <Element collapsed="0" type="model" name="GE Hanging Bulb Singing-2" visible="1"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-4">
+      <EffectLayer>
+        <Effect ref="0" name="Spirals" startTime="0" endTime="57150" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Arches-3">
+      <EffectLayer>
+        <Effect ref="0" name="Spirals" startTime="0" endTime="57150" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Arches-2">
+      <EffectLayer>
+        <Effect ref="0" name="Spirals" startTime="0" endTime="57000" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Arches">
+      <EffectLayer>
+        <Effect ref="0" name="Spirals" startTime="200" endTime="56400" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="MEGA TREE STAR 1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="GE Upright Singing Bulb-2">
+      <EffectLayer>
+        <Effect ref="1" name="On" selected="1" startTime="0" endTime="8550" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="GE Upright Singing Bulb">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="GE Hanging Bulb Singing-3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree">
+      <EffectLayer>
+        <Effect ref="0" name="Spirals" startTime="0" endTime="8550" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="breez door">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="southgarage">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="garage roof">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="south side">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="living window">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="carley">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="mom window">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="north side">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="house roof">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="north garage">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="house door">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="GE Hanging Bulb Singing-2">
+      <EffectLayer/>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1"/>
+    <Tag number="1" position="-1"/>
+    <Tag number="2" position="-1"/>
+    <Tag number="3" position="-1"/>
+    <Tag number="4" position="-1"/>
+    <Tag number="5" position="-1"/>
+    <Tag number="6" position="-1"/>
+    <Tag number="7" position="-1"/>
+    <Tag number="8" position="-1"/>
+    <Tag number="9" position="-1"/>
+  </TimingTags>
+</xsequence>

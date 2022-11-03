@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2022.19</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song></song>
+    <artist></artist>
+    <album></album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>25 ms</sequenceTiming>
+    <sequenceType>Media</sequenceType>
+    <mediaFile>C:\Users\dad\Desktop\Stuff\xLights\music\Jingle Bell Rock Custom Mix.mp3</mediaFile>
+    <sequenceDuration>276.909</sequenceDuration>
+    <imageDir></imageDir>
+  </head>
+  <nextid>1</nextid>
+  <ColorPalettes/>
+  <EffectDB/>
+  <DataLayers>
+    <DataLayer lor_params="3145776" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View,Copy Of Master View,Imported Master" active="1"/>
+    <Element collapsed="0" type="model" name="Arches" visible="1"/>
+    <Element collapsed="0" type="model" name="Everything" visible="1"/>
+    <Element collapsed="0" type="model" name="All Verticals" visible="1"/>
+    <Element collapsed="0" type="model" name="All Horizontals" visible="1"/>
+    <Element collapsed="0" type="model" name="Faces" visible="1"/>
+    <Element collapsed="0" type="model" name="Windows" visible="1"/>
+    <Element collapsed="0" type="model" name="Doors" visible="1"/>
+    <Element collapsed="0" type="model" name="Garage Doors" visible="1"/>
+    <Element collapsed="0" type="model" name="Roofs" visible="1"/>
+    <Element collapsed="0" type="model" name="Sides" visible="1"/>
+    <Element collapsed="0" type="model" name="All House" visible="1"/>
+    <Element collapsed="0" type="model" name="SnowFlakes Left" visible="1"/>
+    <Element collapsed="0" type="model" name="SnowFlakes Right" visible="1"/>
+    <Element collapsed="0" type="model" name="CandyCanes Left" visible="1"/>
+    <Element collapsed="0" type="model" name="CandyCanes Right" visible="1"/>
+    <Element collapsed="0" type="model" name="All Props" visible="1"/>
+    <Element collapsed="0" type="model" name="All SnowFlakes" visible="1"/>
+    <Element collapsed="0" type="model" name="All CandyCanes" visible="1"/>
+    <Element collapsed="0" type="model" name="All Mini-Trees" visible="1"/>
+    <Element collapsed="0" type="model" name="All Arches" visible="1"/>
+    <Element collapsed="0" type="model" name="Mini-Tree Star 6" visible="1"/>
+    <Element collapsed="0" type="model" name="Mini-Tree 6" visible="1"/>
+    <Element collapsed="0" type="model" name="Mini-Tree 5" visible="1"/>
+    <Element collapsed="0" type="model" name="Mini-Tree Star 1" visible="1"/>
+    <Element collapsed="0" type="model" name="Mini-Tree 1" visible="1"/>
+    <Element collapsed="0" type="model" name="CandyCane 5" visible="1"/>
+    <Element collapsed="0" type="model" name="CandyCane 7" visible="1"/>
+    <Element collapsed="0" type="model" name="CandyCane 8" visible="1"/>
+    <Element collapsed="0" type="model" name="CandyCane 6" visible="1"/>
+    <Element collapsed="0" type="model" name="CandyCane 4" visible="1"/>
+    <Element collapsed="0" type="model" name="CandyCane 1" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Flake 8" visible="1"/>
+    <Element collapsed="0" type="model" name="Flake 9" visible="1"/>
+    <Element collapsed="0" type="model" name="Flake 10" visible="1"/>
+    <Element collapsed="0" type="model" name="Flake 7" visible="1"/>
+    <Element collapsed="0" type="model" name="Flake 6" visible="1"/>
+    <Element collapsed="0" type="model" name="Flake 5" visible="1"/>
+    <Element collapsed="0" type="model" name="Flake 4" visible="1"/>
+    <Element collapsed="0" type="model" name="Flake 3" visible="1"/>
+    <Element collapsed="0" type="model" name="Flake 2" visible="1"/>
+    <Element collapsed="0" type="model" name="Flake 1" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Singing Bulb 2" visible="1"/>
+    <Element collapsed="0" type="model" name="Singing Bulb 3" visible="1"/>
+    <Element collapsed="0" type="model" name="Singing Bulb 4" visible="1"/>
+    <Element collapsed="0" type="model" name="Singing Bulb 1" visible="1"/>
+    <Element collapsed="0" type="model" name="Garage Door 1" visible="1"/>
+    <Element collapsed="0" type="model" name="Door 1" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree Star" visible="1"/>
+    <Element collapsed="0" type="model" name="Door 2" visible="1"/>
+    <Element collapsed="0" type="model" name="Garage Door 2" visible="1"/>
+    <Element collapsed="0" type="model" name="Roof Garage" visible="1"/>
+    <Element collapsed="0" type="model" name="Side Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Window 3" visible="1"/>
+    <Element collapsed="0" type="model" name="Window 2" visible="1"/>
+    <Element collapsed="0" type="model" name="Window 1" visible="1"/>
+    <Element collapsed="0" type="model" name="Side Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Roof House" visible="1"/>
+    <Element collapsed="0" type="model" name="CandyCane 2" visible="1"/>
+    <Element collapsed="0" type="model" name="CandyCane 3" visible="1"/>
+    <Element collapsed="0" type="model" name="Mini-Tree 2" visible="1"/>
+    <Element collapsed="0" type="model" name="Mini-Tree 3" visible="1"/>
+    <Element collapsed="0" type="model" name="Mini-Tree 4" visible="1"/>
+    <Element collapsed="0" type="model" name="Mini-Tree Star 2" visible="1"/>
+    <Element collapsed="0" type="model" name="Mini-Tree Star 3" visible="1"/>
+    <Element collapsed="0" type="model" name="Mini-Tree Star 4" visible="1"/>
+    <Element collapsed="0" type="model" name="Mini-Tree Star 5" visible="1"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer>
+        <Effect label="Jingle bell, jingle bell, jingle bell rock" startTime="5475" endTime="9100"></Effect>
+        <Effect label="Jingle bells swing and jingle bells ring" startTime="9100" endTime="12875"></Effect>
+        <Effect label="Snowin' and blowin' up bushels of fun" startTime="12875" endTime="16725"></Effect>
+        <Effect label="Now the jingle hop has begun" startTime="16725" endTime="20425"></Effect>
+        <Effect label="Jingle bell, jingle bell, jingle bell rock" startTime="20425" endTime="23950"></Effect>
+        <Effect label="Jingle bells chime in jingle bell time" startTime="23950" endTime="27925"></Effect>
+        <Effect label="Dancin' and prancin' in Jingle Bell Square" startTime="27925" endTime="31800"></Effect>
+        <Effect label="In the frosty air" startTime="31800" endTime="38775"></Effect>
+        <Effect label="Ladies And Gentlemen" startTime="68025" endTime="69300"></Effect>
+        <Effect label="We Are Experiecing Technical Difficulties" startTime="69925" endTime="72750"></Effect>
+        <Effect label="Warning This Is A Total Blackout" startTime="73750" endTime="76400"></Effect>
+        <Effect label="Please Stand By As We Are Currently Testing Our Systems" startTime="76900" endTime="80125"></Effect>
+        <Effect label="Testing Lighting Equipment:" startTime="80925" endTime="82400"></Effect>
+        <Effect label="LED Screens" startTime="83600" endTime="84900"></Effect>
+        <Effect label="Testing Blinders" startTime="86725" endTime="88050"></Effect>
+        <Effect label="Testing Lasers" startTime="90450" endTime="91875"></Effect>
+        <Effect label="Testing threeDee Video" startTime="94375" endTime="96175"></Effect>
+        <Effect label="Okay We Are About To Do A Full Frequency Sweep" startTime="99400" endTime="103025"></Effect>
+        <Effect label="twenty hertz" startTime="103900" endTime="104850"></Effect>
+        <Effect label="fifty hertz" startTime="106225" endTime="107150"></Effect>
+        <Effect label="two hundred hertz" startTime="109425" endTime="110675"></Effect>
+        <Effect label="four hundred forty hertz" startTime="112550" endTime="114225"></Effect>
+        <Effect label="one kilohertz" startTime="116200" endTime="117825"></Effect>
+        <Effect label="two kilohertz" startTime="118400" endTime="119650"></Effect>
+        <Effect label="five kilohertz" startTime="120200" endTime="121575"></Effect>
+        <Effect label="ten kilohertz" startTime="121950" endTime="123325"></Effect>
+        <Effect label="Okay" startTime="123925" endTime="124600"></Effect>
+        <Effect label="Subwoofer Kick Test" startTime="125400" endTime="127200"></Effect>
+        <Effect label="Balance Check" startTime="129450" endTime="130350"></Effect>
+        <Effect label="Left Channel The Sound Should Now Be at The Left Speaker" startTime="131150" endTime="134825"></Effect>
+        <Effect label="Right Channel The Sound Should Now Be at The Right Speaker" startTime="138300" endTime="142000"></Effect>
+        <Effect label="Left Channel" startTime="145600" endTime="146550"></Effect>
+        <Effect label="Right Channel" startTime="149425" endTime="150450"></Effect>
+        <Effect label="Left Channel" startTime="152875" endTime="153825"></Effect>
+        <Effect label="Right Channel" startTime="156625" endTime="157525"></Effect>
+        <Effect label="Left Channel" startTime="160175" endTime="161125"></Effect>
+        <Effect label="Right Channel" startTime="162075" endTime="162925"></Effect>
+        <Effect label="Left Channel" startTime="163950" endTime="164675"></Effect>
+        <Effect label="Right Channel" startTime="165850" endTime="166625"></Effect>
+        <Effect label="Left, Right" startTime="167525" endTime="168350"></Effect>
+        <Effect label="Left, Right" startTime="168350" endTime="169125"></Effect>
+        <Effect label="Left, Right" startTime="169125" endTime="170175"></Effect>
+        <Effect label="Left, Right" startTime="170175" endTime="171125"></Effect>
+        <Effect label="Left, Right" startTime="171125" endTime="172075"></Effect>
+        <Effect label="Left, Right" startTime="172075" endTime="172950"></Effect>
+        <Effect label="Left, Right" startTime="172950" endTime="173775"></Effect>
+        <Effect label="Left, Right" startTime="173775" endTime="174750"></Effect>
+        <Effect label="Left, Right" startTime="174750" endTime="175250"></Effect>
+        <Effect label="Left, Right" startTime="175250" endTime="175675"></Effect>
+        <Effect label="Left, Right" startTime="175675" endTime="176200"></Effect>
+        <Effect label="Left, Right" startTime="176200" endTime="176575"></Effect>
+        <Effect label="Left, Right" startTime="176575" endTime="177025"></Effect>
+        <Effect label="Left, Right" startTime="177025" endTime="177525"></Effect>
+        <Effect label="Left, Right" startTime="177525" endTime="177975"></Effect>
+        <Effect label="Left, Right" startTime="177975" endTime="178400"></Effect>
+        <Effect label="Left, Right" startTime="178400" endTime="178925"></Effect>
+        <Effect label="Left, Right" startTime="178925" endTime="179350"></Effect>
+        <Effect label="Left, Right" startTime="179350" endTime="179775"></Effect>
+        <Effect label="Left, Right" startTime="179775" endTime="180200"></Effect>
+        <Effect label="This is a test" startTime="180250" endTime="181700"></Effect>
+        <Effect label="Jingle bell, jingle bell, jingle bell rock" startTime="199350" endTime="203350"></Effect>
+        <Effect label="Jingle bells swing and jingle bells ring" startTime="203375" endTime="207375"></Effect>
+        <Effect label="Snowin' and blowin' up bushels of fun" startTime="207500" endTime="211500"></Effect>
+        <Effect label="Now the jingle hop has begun" startTime="211500" endTime="215500"></Effect>
+        <Effect label="Jingle bell, jingle bell, jingle bell rock" startTime="215500" endTime="219500"></Effect>
+        <Effect label="Jingle bells chime in jingle bell time" startTime="219500" endTime="223500"></Effect>
+        <Effect label="Dancin' and prancin' in Jingle Bell Square" startTime="223500" endTime="227500"></Effect>
+        <Effect label="In the frosty air" selected="1" startTime="227500" endTime="231500"></Effect>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Arches">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Everything">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All Verticals">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All Horizontals">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Faces">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Windows">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Doors">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Garage Doors">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Roofs">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Sides">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All House">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="SnowFlakes Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="SnowFlakes Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="CandyCanes Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="CandyCanes Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All Props">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All SnowFlakes">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All CandyCanes">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All Mini-Trees">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All Arches">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Mini-Tree Star 6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Mini-Tree 6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Mini-Tree 5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Mini-Tree Star 1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Mini-Tree 1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="CandyCane 5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="CandyCane 7">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="CandyCane 8">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="CandyCane 6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="CandyCane 4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="CandyCane 1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Flake 8">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Flake 9">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Flake 10">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Flake 7">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Flake 6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Flake 5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Flake 4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Flake 3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Flake 2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Flake 1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Singing Bulb 2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Singing Bulb 3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Singing Bulb 4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Singing Bulb 1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Garage Door 1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Door 1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree Star">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Door 2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Garage Door 2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Roof Garage">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Side Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Window 3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Window 2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Window 1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Side Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Roof House">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="CandyCane 2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="CandyCane 3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Mini-Tree 2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Mini-Tree 3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Mini-Tree 4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Mini-Tree Star 2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Mini-Tree Star 3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Mini-Tree Star 4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Mini-Tree Star 5">
+      <EffectLayer/>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1"/>
+    <Tag number="1" position="-1"/>
+    <Tag number="2" position="-1"/>
+    <Tag number="3" position="-1"/>
+    <Tag number="4" position="-1"/>
+    <Tag number="5" position="-1"/>
+    <Tag number="6" position="-1"/>
+    <Tag number="7" position="-1"/>
+    <Tag number="8" position="-1"/>
+    <Tag number="9" position="-1"/>
+  </TimingTags>
+</xsequence>

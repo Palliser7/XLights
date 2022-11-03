@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2021.37</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song>Jingle Bells 3</song>
+    <artist>Kevin MacLeod</artist>
+    <album>Christmas</album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>25 ms</sequenceTiming>
+    <sequenceType>Media</sequenceType>
+    <mediaFile>C:\Users\sheldon\Documents\xlights\music\Jingle Bells 3.mp3</mediaFile>
+    <sequenceDuration>102.060</sequenceDuration>
+    <imageDir></imageDir>
+  </head>
+  <nextid>1</nextid>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=0,C_CHECKBOX_Palette5=1,C_CHECKBOX_Palette6=0,C_CHECKBOX_Palette7=0,C_CHECKBOX_Palette8=1</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect>E_CHECKBOX_FIRETIMING=1,E_CHECKBOX_Fireworks_Gravity=0,E_CHECKBOX_Fireworks_HoldColour=0,E_CHECKBOX_Fireworks_UseMusic=0,E_CHOICE_FIRETIMINGTRACK=Beats,E_SLIDER_Fireworks_Count=98,E_SLIDER_Fireworks_Explosions=48,E_SLIDER_Fireworks_Fade=14,E_SLIDER_Fireworks_Sensitivity=88,E_SLIDER_Fireworks_Velocity=1,E_SLIDER_Fireworks_XLocation=39,E_SLIDER_Fireworks_XVelocity=0,E_SLIDER_Fireworks_YLocation=39,E_SLIDER_Fireworks_YVelocity=0,E_TEXTCTRL_Fireworks_XLocation=39,E_TEXTCTRL_Fireworks_XVelocity=0,E_TEXTCTRL_Fireworks_YLocation=39,E_TEXTCTRL_Fireworks_YVelocity=0</Effect>
+  </EffectDB>
+  <DataLayers>
+    <DataLayer lor_params="44" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View" active="0"/>
+    <Element collapsed="0" type="timing" name="Beats" visible="1" views="" active="1"/>
+    <Element collapsed="0" type="model" name="everything" visible="1"/>
+    <Element collapsed="0" type="model" name="house and garage" visible="1"/>
+    <Element collapsed="0" type="model" name="garage" visible="1"/>
+    <Element collapsed="0" type="model" name="house" visible="1"/>
+    <Element collapsed="0" type="model" name="north garage" visible="1"/>
+    <Element collapsed="0" type="model" name="house door" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree" visible="1"/>
+    <Element collapsed="0" type="model" name="MEGA TREE STAR 1" visible="1"/>
+    <Element collapsed="0" type="model" name="breez door" visible="1"/>
+    <Element collapsed="0" type="model" name="southgarage" visible="1"/>
+    <Element collapsed="0" type="model" name="garage roof" visible="1"/>
+    <Element collapsed="0" type="model" name="south side" visible="1"/>
+    <Element collapsed="0" type="model" name="living window" visible="1"/>
+    <Element collapsed="0" type="model" name="carley" visible="1"/>
+    <Element collapsed="0" type="model" name="mom window" visible="1"/>
+    <Element collapsed="0" type="model" name="north side" visible="1"/>
+    <Element collapsed="0" type="model" name="house roof" visible="1"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer/>
+    </Element>
+    <Element type="timing" name="Beats">
+      <EffectLayer>
+        <Effect label="129.20 bpm" startTime="250" endTime="725"></Effect>
+        <Effect label="109.96 bpm" startTime="725" endTime="1275"></Effect>
+        <Effect label="120.19 bpm" startTime="1275" endTime="1775"></Effect>
+        <Effect label="117.45 bpm" startTime="1775" endTime="2275"></Effect>
+        <Effect label="117.45 bpm" startTime="2275" endTime="2775"></Effect>
+        <Effect label="120.19 bpm" startTime="2775" endTime="3275"></Effect>
+        <Effect label="120.19 bpm" startTime="3275" endTime="3775"></Effect>
+        <Effect label="123.05 bpm" startTime="3775" endTime="4275"></Effect>
+        <Effect label="123.05 bpm" startTime="4275" endTime="4750"></Effect>
+        <Effect label="120.19 bpm" startTime="4750" endTime="5250"></Effect>
+        <Effect label="120.19 bpm" startTime="5250" endTime="5750"></Effect>
+        <Effect label="117.45 bpm" startTime="5750" endTime="6275"></Effect>
+        <Effect label="123.05 bpm" startTime="6275" endTime="6750"></Effect>
+        <Effect label="117.45 bpm" startTime="6750" endTime="7275"></Effect>
+        <Effect label="120.19 bpm" startTime="7275" endTime="7775"></Effect>
+        <Effect label="120.19 bpm" startTime="7775" endTime="8275"></Effect>
+        <Effect label="120.19 bpm" startTime="8275" endTime="8775"></Effect>
+        <Effect label="123.05 bpm" startTime="8775" endTime="9250"></Effect>
+        <Effect label="117.45 bpm" startTime="9250" endTime="9775"></Effect>
+        <Effect label="120.19 bpm" startTime="9775" endTime="10275"></Effect>
+        <Effect label="120.19 bpm" startTime="10275" endTime="10750"></Effect>
+        <Effect label="120.19 bpm" startTime="10750" endTime="11250"></Effect>
+        <Effect label="117.45 bpm" startTime="11250" endTime="11775"></Effect>
+        <Effect label="120.19 bpm" startTime="11775" endTime="12275"></Effect>
+        <Effect label="123.05 bpm" startTime="12275" endTime="12750"></Effect>
+        <Effect label="120.19 bpm" startTime="12750" endTime="13250"></Effect>
+        <Effect label="120.19 bpm" startTime="13250" endTime="13750"></Effect>
+        <Effect label="117.45 bpm" startTime="13750" endTime="14275"></Effect>
+        <Effect label="117.45 bpm" startTime="14275" endTime="14775"></Effect>
+        <Effect label="120.19 bpm" startTime="14775" endTime="15275"></Effect>
+        <Effect label="120.19 bpm" startTime="15275" endTime="15775"></Effect>
+        <Effect label="123.05 bpm" startTime="15775" endTime="16275"></Effect>
+        <Effect label="120.19 bpm" startTime="16275" endTime="16775"></Effect>
+        <Effect label="120.19 bpm" startTime="16775" endTime="17275"></Effect>
+        <Effect label="120.19 bpm" startTime="17275" endTime="17775"></Effect>
+        <Effect label="120.19 bpm" startTime="17775" endTime="18250"></Effect>
+        <Effect label="120.19 bpm" startTime="18250" endTime="18750"></Effect>
+        <Effect label="120.19 bpm" startTime="18750" endTime="19250"></Effect>
+        <Effect label="120.19 bpm" startTime="19250" endTime="19750"></Effect>
+        <Effect label="117.45 bpm" startTime="19750" endTime="20275"></Effect>
+        <Effect label="120.19 bpm" startTime="20275" endTime="20775"></Effect>
+        <Effect label="120.19 bpm" startTime="20775" endTime="21275"></Effect>
+        <Effect label="123.05 bpm" startTime="21275" endTime="21750"></Effect>
+        <Effect label="120.19 bpm" startTime="21750" endTime="22250"></Effect>
+        <Effect label="120.19 bpm" startTime="22250" endTime="22750"></Effect>
+        <Effect label="120.19 bpm" startTime="22750" endTime="23250"></Effect>
+        <Effect label="120.19 bpm" startTime="23250" endTime="23750"></Effect>
+        <Effect label="117.45 bpm" startTime="23750" endTime="24275"></Effect>
+        <Effect label="120.19 bpm" startTime="24275" endTime="24775"></Effect>
+        <Effect label="117.45 bpm" startTime="24775" endTime="25275"></Effect>
+        <Effect label="123.05 bpm" startTime="25275" endTime="25750"></Effect>
+        <Effect label="120.19 bpm" startTime="25750" endTime="26250"></Effect>
+        <Effect label="120.19 bpm" startTime="26250" endTime="26750"></Effect>
+        <Effect label="120.19 bpm" startTime="26750" endTime="27250"></Effect>
+        <Effect label="120.19 bpm" startTime="27250" endTime="27750"></Effect>
+        <Effect label="117.45 bpm" startTime="27750" endTime="28275"></Effect>
+        <Effect label="120.19 bpm" startTime="28275" endTime="28775"></Effect>
+        <Effect label="120.19 bpm" startTime="28775" endTime="29275"></Effect>
+        <Effect label="120.19 bpm" startTime="29275" endTime="29775"></Effect>
+        <Effect label="123.05 bpm" startTime="29775" endTime="30250"></Effect>
+        <Effect label="120.19 bpm" startTime="30250" endTime="30750"></Effect>
+        <Effect label="120.19 bpm" startTime="30750" endTime="31250"></Effect>
+        <Effect label="117.45 bpm" startTime="31250" endTime="31775"></Effect>
+        <Effect label="120.19 bpm" startTime="31775" endTime="32275"></Effect>
+        <Effect label="123.05 bpm" startTime="32275" endTime="32750"></Effect>
+        <Effect label="120.19 bpm" startTime="32750" endTime="33250"></Effect>
+        <Effect label="117.45 bpm" startTime="33250" endTime="33750"></Effect>
+        <Effect label="120.19 bpm" startTime="33750" endTime="34250"></Effect>
+        <Effect label="120.19 bpm" startTime="34250" endTime="34750"></Effect>
+        <Effect label="117.45 bpm" startTime="34750" endTime="35275"></Effect>
+        <Effect label="120.19 bpm" startTime="35275" endTime="35775"></Effect>
+        <Effect label="120.19 bpm" startTime="35775" endTime="36275"></Effect>
+        <Effect label="120.19 bpm" startTime="36275" endTime="36775"></Effect>
+        <Effect label="120.19 bpm" startTime="36775" endTime="37275"></Effect>
+        <Effect label="120.19 bpm" startTime="37275" endTime="37775"></Effect>
+        <Effect label="120.19 bpm" startTime="37775" endTime="38275"></Effect>
+        <Effect label="120.19 bpm" startTime="38275" endTime="38775"></Effect>
+        <Effect label="120.19 bpm" startTime="38775" endTime="39275"></Effect>
+        <Effect label="120.19 bpm" startTime="39275" endTime="39775"></Effect>
+        <Effect label="120.19 bpm" startTime="39775" endTime="40275"></Effect>
+        <Effect label="120.19 bpm" startTime="40275" endTime="40750"></Effect>
+        <Effect label="123.05 bpm" startTime="40750" endTime="41250"></Effect>
+        <Effect label="117.45 bpm" startTime="41250" endTime="41750"></Effect>
+        <Effect label="120.19 bpm" startTime="41750" endTime="42250"></Effect>
+        <Effect label="120.19 bpm" startTime="42250" endTime="42750"></Effect>
+        <Effect label="117.45 bpm" startTime="42750" endTime="43275"></Effect>
+        <Effect label="120.19 bpm" startTime="43275" endTime="43775"></Effect>
+        <Effect label="120.19 bpm" startTime="43775" endTime="44275"></Effect>
+        <Effect label="123.05 bpm" startTime="44275" endTime="44750"></Effect>
+        <Effect label="120.19 bpm" startTime="44750" endTime="45250"></Effect>
+        <Effect label="120.19 bpm" startTime="45250" endTime="45750"></Effect>
+        <Effect label="120.19 bpm" startTime="45750" endTime="46250"></Effect>
+        <Effect label="120.19 bpm" startTime="46250" endTime="46750"></Effect>
+        <Effect label="114.84 bpm" startTime="46750" endTime="47275"></Effect>
+        <Effect label="120.19 bpm" startTime="47275" endTime="47775"></Effect>
+        <Effect label="123.05 bpm" startTime="47775" endTime="48250"></Effect>
+        <Effect label="120.19 bpm" startTime="48250" endTime="48750"></Effect>
+        <Effect label="120.19 bpm" startTime="48750" endTime="49250"></Effect>
+        <Effect label="120.19 bpm" startTime="49250" endTime="49750"></Effect>
+        <Effect label="120.19 bpm" startTime="49750" endTime="50250"></Effect>
+        <Effect label="120.19 bpm" startTime="50250" endTime="50750"></Effect>
+        <Effect label="120.19 bpm" startTime="50750" endTime="51250"></Effect>
+        <Effect label="117.45 bpm" startTime="51250" endTime="51775"></Effect>
+        <Effect label="120.19 bpm" startTime="51775" endTime="52275"></Effect>
+        <Effect label="120.19 bpm" startTime="52275" endTime="52775"></Effect>
+        <Effect label="120.19 bpm" startTime="52775" endTime="53275"></Effect>
+        <Effect label="123.05 bpm" startTime="53275" endTime="53750"></Effect>
+        <Effect label="120.19 bpm" startTime="53750" endTime="54250"></Effect>
+        <Effect label="120.19 bpm" startTime="54250" endTime="54750"></Effect>
+        <Effect label="120.19 bpm" startTime="54750" endTime="55250"></Effect>
+        <Effect label="120.19 bpm" startTime="55250" endTime="55750"></Effect>
+        <Effect label="117.45 bpm" startTime="55750" endTime="56250"></Effect>
+        <Effect label="120.19 bpm" startTime="56250" endTime="56750"></Effect>
+        <Effect label="120.19 bpm" startTime="56750" endTime="57250"></Effect>
+        <Effect label="120.19 bpm" startTime="57250" endTime="57750"></Effect>
+        <Effect label="123.05 bpm" startTime="57750" endTime="58250"></Effect>
+        <Effect label="117.45 bpm" startTime="58250" endTime="58750"></Effect>
+        <Effect label="120.19 bpm" startTime="58750" endTime="59250"></Effect>
+        <Effect label="120.19 bpm" startTime="59250" endTime="59750"></Effect>
+        <Effect label="117.45 bpm" startTime="59750" endTime="60275"></Effect>
+        <Effect label="120.19 bpm" startTime="60275" endTime="60775"></Effect>
+        <Effect label="120.19 bpm" startTime="60775" endTime="61275"></Effect>
+        <Effect label="120.19 bpm" startTime="61275" endTime="61775"></Effect>
+        <Effect label="123.05 bpm" startTime="61775" endTime="62250"></Effect>
+        <Effect label="120.19 bpm" startTime="62250" endTime="62750"></Effect>
+        <Effect label="117.45 bpm" startTime="62750" endTime="63250"></Effect>
+        <Effect label="120.19 bpm" startTime="63250" endTime="63750"></Effect>
+        <Effect label="120.19 bpm" startTime="63750" endTime="64250"></Effect>
+        <Effect label="123.05 bpm" startTime="64250" endTime="64750"></Effect>
+        <Effect label="120.19 bpm" startTime="64750" endTime="65250"></Effect>
+        <Effect label="117.45 bpm" startTime="65250" endTime="65750"></Effect>
+        <Effect label="120.19 bpm" startTime="65750" endTime="66250"></Effect>
+        <Effect label="120.19 bpm" startTime="66250" endTime="66750"></Effect>
+        <Effect label="117.45 bpm" startTime="66750" endTime="67275"></Effect>
+        <Effect label="120.19 bpm" startTime="67275" endTime="67775"></Effect>
+        <Effect label="120.19 bpm" startTime="67775" endTime="68275"></Effect>
+        <Effect label="120.19 bpm" startTime="68275" endTime="68775"></Effect>
+        <Effect label="120.19 bpm" startTime="68775" endTime="69275"></Effect>
+        <Effect label="120.19 bpm" startTime="69275" endTime="69775"></Effect>
+        <Effect label="117.45 bpm" startTime="69775" endTime="70275"></Effect>
+        <Effect label="123.05 bpm" startTime="70275" endTime="70750"></Effect>
+        <Effect label="120.19 bpm" startTime="70750" endTime="71250"></Effect>
+        <Effect label="120.19 bpm" startTime="71250" endTime="71750"></Effect>
+        <Effect label="117.45 bpm" startTime="71750" endTime="72275"></Effect>
+        <Effect label="123.05 bpm" startTime="72275" endTime="72750"></Effect>
+        <Effect label="123.05 bpm" startTime="72750" endTime="73250"></Effect>
+        <Effect label="117.45 bpm" startTime="73250" endTime="73750"></Effect>
+        <Effect label="120.19 bpm" startTime="73750" endTime="74250"></Effect>
+        <Effect label="120.19 bpm" startTime="74250" endTime="74750"></Effect>
+        <Effect label="117.45 bpm" startTime="74750" endTime="75275"></Effect>
+        <Effect label="120.19 bpm" startTime="75275" endTime="75775"></Effect>
+        <Effect label="120.19 bpm" startTime="75775" endTime="76275"></Effect>
+        <Effect label="123.05 bpm" startTime="76275" endTime="76750"></Effect>
+        <Effect label="120.19 bpm" startTime="76750" endTime="77250"></Effect>
+        <Effect label="120.19 bpm" startTime="77250" endTime="77750"></Effect>
+        <Effect label="117.45 bpm" startTime="77750" endTime="78250"></Effect>
+        <Effect label="120.19 bpm" startTime="78250" endTime="78750"></Effect>
+        <Effect label="117.45 bpm" startTime="78750" endTime="79275"></Effect>
+        <Effect label="120.19 bpm" startTime="79275" endTime="79775"></Effect>
+        <Effect label="123.05 bpm" startTime="79775" endTime="80250"></Effect>
+        <Effect label="120.19 bpm" startTime="80250" endTime="80750"></Effect>
+        <Effect label="120.19 bpm" startTime="80750" endTime="81250"></Effect>
+        <Effect label="120.19 bpm" startTime="81250" endTime="81750"></Effect>
+        <Effect label="120.19 bpm" startTime="81750" endTime="82250"></Effect>
+        <Effect label="120.19 bpm" startTime="82250" endTime="82750"></Effect>
+        <Effect label="120.19 bpm" startTime="82750" endTime="83250"></Effect>
+        <Effect label="120.19 bpm" startTime="83250" endTime="83750"></Effect>
+        <Effect label="117.45 bpm" startTime="83750" endTime="84275"></Effect>
+        <Effect label="120.19 bpm" startTime="84275" endTime="84775"></Effect>
+        <Effect label="117.45 bpm" startTime="84775" endTime="85275"></Effect>
+        <Effect label="123.05 bpm" startTime="85275" endTime="85750"></Effect>
+        <Effect label="120.19 bpm" startTime="85750" endTime="86250"></Effect>
+        <Effect label="120.19 bpm" startTime="86250" endTime="86750"></Effect>
+        <Effect label="120.19 bpm" startTime="86750" endTime="87250"></Effect>
+        <Effect label="120.19 bpm" startTime="87250" endTime="87750"></Effect>
+        <Effect label="117.45 bpm" startTime="87750" endTime="88275"></Effect>
+        <Effect label="123.05 bpm" startTime="88275" endTime="88750"></Effect>
+        <Effect label="120.19 bpm" startTime="88750" endTime="89250"></Effect>
+        <Effect label="120.19 bpm" startTime="89250" endTime="89750"></Effect>
+        <Effect label="120.19 bpm" startTime="89750" endTime="90250"></Effect>
+        <Effect label="117.45 bpm" startTime="90250" endTime="90775"></Effect>
+        <Effect label="123.05 bpm" startTime="90775" endTime="91250"></Effect>
+        <Effect label="117.45 bpm" startTime="91250" endTime="91775"></Effect>
+        <Effect label="120.19 bpm" startTime="91775" endTime="92275"></Effect>
+        <Effect label="120.19 bpm" startTime="92275" endTime="92775"></Effect>
+        <Effect label="120.19 bpm" startTime="92775" endTime="93250"></Effect>
+        <Effect label="120.19 bpm" startTime="93250" endTime="93750"></Effect>
+        <Effect label="120.19 bpm" startTime="93750" endTime="94250"></Effect>
+        <Effect label="120.19 bpm" startTime="94250" endTime="94750"></Effect>
+        <Effect label="120.19 bpm" startTime="94750" endTime="95250"></Effect>
+        <Effect label="120.19 bpm" startTime="95250" endTime="95750"></Effect>
+        <Effect label="120.19 bpm" startTime="95750" endTime="96250"></Effect>
+        <Effect label="123.05 bpm" startTime="96250" endTime="96750"></Effect>
+        <Effect label="120.19 bpm" startTime="96750" endTime="97250"></Effect>
+        <Effect label="117.45 bpm" startTime="97250" endTime="97750"></Effect>
+        <Effect label="120.19 bpm" startTime="97750" endTime="98250"></Effect>
+        <Effect label="120.19 bpm" startTime="98250" endTime="98750"></Effect>
+        <Effect label="123.05 bpm" startTime="98750" endTime="99250"></Effect>
+        <Effect label="123.05 bpm" startTime="99250" endTime="99725"></Effect>
+        <Effect label="123.05 bpm" startTime="99725" endTime="100225"></Effect>
+        <Effect label="123.05 bpm" startTime="100225" endTime="100700"></Effect>
+        <Effect label="" startTime="100700" endTime="100700"></Effect>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="everything">
+      <EffectLayer>
+        <Effect ref="0" name="Fireworks" selected="1" startTime="0" endTime="125700" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="house and garage">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="garage">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="house">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="north garage">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="house door">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="MEGA TREE STAR 1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="breez door">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="southgarage">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="garage roof">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="south side">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="living window">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="carley">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="mom window">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="north side">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="house roof">
+      <EffectLayer/>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1"/>
+    <Tag number="1" position="-1"/>
+    <Tag number="2" position="-1"/>
+    <Tag number="3" position="-1"/>
+    <Tag number="4" position="-1"/>
+    <Tag number="5" position="-1"/>
+    <Tag number="6" position="-1"/>
+    <Tag number="7" position="-1"/>
+    <Tag number="8" position="-1"/>
+    <Tag number="9" position="-1"/>
+  </TimingTags>
+</xsequence>

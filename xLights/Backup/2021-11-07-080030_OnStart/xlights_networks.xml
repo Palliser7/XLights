@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Networks computer="LAPTOP-TBPD8QUO" GlobalFPPProxy="">
+  <Controller Id="1" Name="F16V3 v2.59" Description="F16V3" Type="Ethernet" Vendor="Falcon" Model="F16V3" Variant="No Expansion + Serial Port Remotes" AutoSize="1" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="50" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" IP="192.168.0.167" Protocol="E131" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE">
+    <network ComPort="192.168.0.167" BaudRate="1" NetworkType="E131" MaxChannels="512"/>
+    <network ComPort="192.168.0.167" BaudRate="2" NetworkType="E131" MaxChannels="512"/>
+    <network ComPort="192.168.0.167" BaudRate="3" NetworkType="E131" MaxChannels="512"/>
+    <network ComPort="192.168.0.167" BaudRate="4" NetworkType="E131" MaxChannels="512"/>
+    <network ComPort="192.168.0.167" BaudRate="5" NetworkType="E131" MaxChannels="512"/>
+    <network ComPort="192.168.0.167" BaudRate="6" NetworkType="E131" MaxChannels="512"/>
+  </Controller>
+</Networks>

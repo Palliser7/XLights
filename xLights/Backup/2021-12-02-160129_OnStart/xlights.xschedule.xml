@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xSchedule>
+  <Options AudioDevice="" InputAudioDevice="" WWWRoot="xScheduleWeb" CrashBehaviour="Prompt user" MIDITimecodeDevice="" MIDITimecodeFormat="0" MIDITimecodeOffset="0" Password="" DefaultPage="index.html" AllowUnauth="FALSE" City="Edmonton" RemoteLatency="0" RemoteAcceptableJitter="20" SMPTEMode="3" DefaultVideoSize="100|100" DefaultVideoPos="0|0" HardwareAcceleratedVideo="TRUE" SuppressAudioOnRemotes="TRUE" KeepScreenOn="FALSE" MinimiseUIUpdates="FALSE" WebServerPort="80" PasswordTimeout="30" ARTNetTimeCodeFormat="2">
+    <Button Label="Play Selected" Command="Play selected playlist" Parameters="" Hotkey="~" Color="green"/>
+    <Button Label="Stop All" Command="Stop all now" Parameters="" Hotkey="~" Color="red"/>
+    <Button Label="Reset All Schedules" Command="Restart all schedules" Parameters="" Hotkey="~" Color="default"/>
+    <Button Label="Next Step" Command="Next step in current playlist" Parameters="" Hotkey="~" Color="default"/>
+    <Button Label="End Gracefully" Command="Jump to play once at end at end of current step and then stop" Parameters="" Hotkey="~" Color="red"/>
+    <Button Label="Add 10 Mins To Schedule" Command="Add to the current schedule n minutes" Parameters="10" Hotkey="~" Color="default"/>
+    <Events/>
+    <OSC MasterPath="/Timecode/%STEPNAME%" RemotePath="/Timecode/%STEPNAME%" IP="255.255.255.255" Time="Seconds (float)" Frame="Default (int)" ServerPort="9000" ClientPort="9000" TimeBased="True"/>
+    <Test Mode="Alternate" Level1="255" Level2="0" Interval="500"/>
+  </Options>
+  <PlayList AlwaysShuffle="TRUE" Name="effects">
+    <PlayListStep Name="">
+      <PLIFSEQ FSEQFile="C:\Users\sheldon\Documents\xlights\redwhite.fseq" ApplyMethod="0" StartChannel="1" Channels="0" Delay="0" Name=""/>
+    </PlayListStep>
+    <PlayListStep Name="">
+      <PLIFSEQ FSEQFile="C:\Users\sheldon\Documents\xlights\sheldon colorslide.fseq" ApplyMethod="0" StartChannel="1" Channels="0" Delay="0" Name="" Priority="1"/>
+    </PlayListStep>
+    <PlayListStep Name="">
+      <PLIFSEQ FSEQFile="C:\Users\sheldon\Documents\xlights\color down.fseq" ApplyMethod="0" StartChannel="1" Channels="0" Delay="0" Name="" Priority="1"/>
+    </PlayListStep>
+    <PlayListStep Name="">
+      <PLIFSEQ FSEQFile="C:\Users\sheldon\Documents\xlights\colorchanging.fseq" ApplyMethod="0" StartChannel="1" Channels="0" Delay="0" Name="" Priority="1"/>
+    </PlayListStep>
+    <PlayListStep Name="">
+      <PLIFSEQ FSEQFile="C:\Users\sheldon\Documents\xlights\strobe.fseq" ApplyMethod="0" StartChannel="1" Channels="0" Delay="0" Name=""/>
+    </PlayListStep>
+    <PlayListStep Name="">
+      <PLIFSEQ FSEQFile="C:\Users\sheldon\Documents\xlights\sheldon colorslide2.fseq" ApplyMethod="0" StartChannel="1" Channels="0" Delay="0" Name="" Priority="1"/>
+    </PlayListStep>
+    <PlayListStep Name="">
+      <PLIFSEQ FSEQFile="C:\Users\sheldon\Documents\xlights\tree.fseq" ApplyMethod="0" StartChannel="1" Channels="0" Delay="0" Name="" Priority="1"/>
+    </PlayListStep>
+    <PlayListStep Name="">
+      <PLIFSEQ FSEQFile="C:\Users\sheldon\Documents\xlights\stack.fseq" ApplyMethod="0" StartChannel="1" Channels="0" Delay="0" Name=""/>
+    </PlayListStep>
+    <PlayListStep Name="">
+      <PLIFSEQ FSEQFile="C:\Users\sheldon\Documents\xlights\sinwave.fseq" ApplyMethod="0" StartChannel="1" Channels="0" Delay="0" Name=""/>
+    </PlayListStep>
+    <PlayListStep Name="">
+      <PLIFSEQ FSEQFile="C:\Users\sheldon\Documents\xlights\merry.fseq" ApplyMethod="0" StartChannel="1" Channels="0" Delay="0" Name="" Priority="1"/>
+    </PlayListStep>
+    <PlayListStep Name="">
+      <PLIFSEQ FSEQFile="C:\Users\sheldon\Documents\xlights\stack.fseq" ApplyMethod="0" StartChannel="1" Channels="0" Delay="0" Name="" Priority="1"/>
+    </PlayListStep>
+    <PlayListStep Name="">
+      <PLIFSEQ FSEQFile="C:\Users\sheldon\Documents\xlights\sheldon1.fseq" ApplyMethod="0" StartChannel="1" Channels="0" Delay="0" Name=""/>
+    </PlayListStep>
+    <PlayListStep Name="">
+      <PLIFSEQ FSEQFile="C:\Users\sheldon\Documents\xlights\lines.fseq" ApplyMethod="0" StartChannel="1" Channels="0" Delay="0" Name=""/>
+    </PlayListStep>
+  </PlayList>
+  <PlayList Name="songs">
+    <PlayListStep Name="">
+      <PLIFSEQ FSEQFile="C:\Users\sheldon\Documents\xlights\introHey Come Look At My House (DJ GE Edit).fseq" ApplyMethod="0" StartChannel="1" Channels="0" Delay="0" Name=""/>
+    </PlayListStep>
+    <PlayListStep Name="">
+      <PLIFSEQ FSEQFile="C:\Users\sheldon\Documents\xlights\01 - The Christmas Can-Can.fseq" ApplyMethod="0" StartChannel="1" Channels="0" Delay="0" Name=""/>
+    </PlayListStep>
+    <PlayListStep Name="">
+      <PLIFSEQ FSEQFile="C:\Users\sheldon\Documents\xlights\Christmas Every Day - Simple Plan (Lyric Video).fseq" ApplyMethod="0" StartChannel="1" Channels="0" Delay="0" Name="" Priority="1"/>
+    </PlayListStep>
+    <PlayListStep Name="">
+      <PLIFSEQ FSEQFile="C:\Users\sheldon\Documents\xlights\Once There Was A Snowman.fseq" ApplyMethod="0" StartChannel="1" Channels="0" Delay="0" Name=""/>
+    </PlayListStep>
+    <PlayListStep Name="">
+      <PLIFSEQ FSEQFile="C:\Users\sheldon\Documents\xlights\07 - You Make It Feel Like Christmas.fseq" ApplyMethod="0" StartChannel="1" Channels="0" Delay="0" Name=""/>
+    </PlayListStep>
+    <Schedule Name="songs" DOW="MonTueWedThuFriSatSun" StartDate="2017-01-01" EndDate="2099-01-01" StartTime="17:00:00" EndTime="22:00:00" Priority="6" NthDay="1" NthDayOffset="0" OnOffsetMins="0" OffOffsetMins="0" FireFrequency="Fire once" Loop="TRUE" Loops="0" Enabled="TRUE" GracefullyInterrupt="TRUE"/>
+  </PlayList>
+</xSchedule>

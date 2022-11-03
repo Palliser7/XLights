@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2021.38</version>
+    <author/>
+    <author-email/>
+    <author-website/>
+    <song/>
+    <artist/>
+    <album/>
+    <MusicURL/>
+    <comment/>
+    <sequenceTiming>50 ms</sequenceTiming>
+    <sequenceType>Animation</sequenceType>
+    <mediaFile/>
+    <sequenceDuration>30.000</sequenceDuration>
+    <imageDir/>
+  </head>
+  <nextid>1</nextid>
+  <Jukebox/>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette5=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette5=1,C_CHECKBOX_Palette8=1</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect>E_CHOICE_Garlands_Direction=Up,E_SLIDER_Garlands_Spacing=100,E_SLIDER_Garlands_Type=0,E_TEXTCTRL_Garlands_Cycles=5.0</Effect>
+    <Effect>E_CHOICE_Garlands_Direction=Left,E_SLIDER_Garlands_Spacing=100,E_SLIDER_Garlands_Type=0,E_TEXTCTRL_Garlands_Cycles=5.0</Effect>
+    <Effect>E_CHOICE_Garlands_Direction=Right then Left,E_SLIDER_Garlands_Spacing=100,E_SLIDER_Garlands_Type=0,E_TEXTCTRL_Garlands_Cycles=5.0</Effect>
+    <Effect>E_CHOICE_Garlands_Direction=Left then Right,E_SLIDER_Garlands_Spacing=100,E_SLIDER_Garlands_Type=0,E_TEXTCTRL_Garlands_Cycles=5.0</Effect>
+    <Effect>E_CHOICE_Garlands_Direction=Right,E_SLIDER_Garlands_Spacing=100,E_SLIDER_Garlands_Type=0,E_TEXTCTRL_Garlands_Cycles=5.0</Effect>
+    <Effect>E_CHOICE_Butterfly_Colors=Palette,E_CHOICE_Butterfly_Direction=Reverse,E_SLIDER_Butterfly_Chunks=7,E_SLIDER_Butterfly_Skip=3,E_SLIDER_Butterfly_Speed=20,E_SLIDER_Butterfly_Style=3</Effect>
+  </EffectDB>
+  <DataLayers>
+    <DataLayer lor_params="44" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="model" name="everything" visible="1"/>
+    <Element collapsed="0" type="model" name="house and garage" visible="1"/>
+    <Element collapsed="0" type="model" name="garage" visible="1"/>
+    <Element collapsed="0" type="model" name="house" visible="1"/>
+    <Element collapsed="0" type="model" name="GE Upright Singing Bulb1" visible="1"/>
+    <Element collapsed="0" type="model" name="GE Hanging Bulb Singing-2" visible="1"/>
+    <Element collapsed="0" type="model" name="GE Hanging Bulb Singing-3" visible="1"/>
+    <Element collapsed="0" type="model" name="GE Upright Singing Bulb-4" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree" visible="1"/>
+    <Element collapsed="0" type="model" name="MEGA TREE STAR 1" visible="1"/>
+    <Element collapsed="0" type="model" name="house door" visible="1"/>
+    <Element collapsed="0" type="model" name="breez door" visible="1"/>
+    <Element collapsed="0" type="model" name="north garage" visible="1"/>
+    <Element collapsed="0" type="model" name="southgarage" visible="1"/>
+    <Element collapsed="0" type="model" name="garage roof" visible="1"/>
+    <Element collapsed="0" type="model" name="house roof" visible="1"/>
+    <Element collapsed="0" type="model" name="south side" visible="1"/>
+    <Element collapsed="0" type="model" name="north side" visible="1"/>
+    <Element collapsed="0" type="model" name="living window" visible="1"/>
+    <Element collapsed="0" type="model" name="carley" visible="1"/>
+    <Element collapsed="0" type="model" name="mom window" visible="1"/>
+    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View" active="1"/>
+    <Element collapsed="0" type="model" name="all aches" visible="1"/>
+    <Element collapsed="0" type="model" name="faces" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches left-2" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches right" visible="1"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="model" name="everything">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="house and garage">
+      <EffectLayer>
+        <Effect ref="0" name="Garlands" startTime="250" endTime="45550" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="garage">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="house">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="GE Upright Singing Bulb1">
+      <EffectLayer>
+        <Effect ref="1" name="Garlands" startTime="0" endTime="47250" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="GE Hanging Bulb Singing-2">
+      <EffectLayer>
+        <Effect ref="2" name="Garlands" startTime="0" endTime="47350" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="GE Hanging Bulb Singing-3">
+      <EffectLayer>
+        <Effect ref="3" name="Garlands" startTime="0" endTime="48900" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="GE Upright Singing Bulb-4">
+      <EffectLayer>
+        <Effect ref="4" name="Garlands" startTime="0" endTime="50400" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Tree">
+      <EffectLayer>
+        <Effect ref="0" name="Garlands" startTime="0" endTime="45300" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="MEGA TREE STAR 1">
+      <EffectLayer>
+        <Effect ref="5" name="Butterfly" startTime="200" endTime="45500" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="house door">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="breez door">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="north garage">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="southgarage">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="garage roof">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="house roof">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="south side">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="north side">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="living window">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="carley">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="mom window">
+      <EffectLayer/>
+    </Element>
+    <Element type="timing" name="New Timing">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="all aches">
+      <EffectLayer>
+        <Effect ref="0" name="Garlands" selected="1" startTime="10300" endTime="55600" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="faces">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches left-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches right">
+      <EffectLayer/>
+    </Element>
+  </ElementEffects>
+  <lastView>1</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1"/>
+    <Tag number="1" position="-1"/>
+    <Tag number="2" position="-1"/>
+    <Tag number="3" position="-1"/>
+    <Tag number="4" position="-1"/>
+    <Tag number="5" position="-1"/>
+    <Tag number="6" position="-1"/>
+    <Tag number="7" position="-1"/>
+    <Tag number="8" position="-1"/>
+    <Tag number="9" position="-1"/>
+  </TimingTags>
+</xsequence>
